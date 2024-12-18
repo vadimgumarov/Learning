@@ -27,23 +27,20 @@ A comprehensive 12-week learning journey focused on modern QA technologies and p
 - Framework implementation
 - Best practices and patterns
 
-### 2. DevOps & CI/CD Integration (Weeks 4-6)
+### 2. CI/CD Integration (Weeks 4-6)
 
 #### Core Tools
-- Docker/Podman
-- Kubernetes/Docker Swarm
+- Github extensive course
+- Jenkins
 - CI/CD Pipelines
 
 #### Learning Resources
-- [Docker Documentation](https://docs.docker.com/get-started/)
-- [Kubernetes Learning](https://kubernetes.io/training/)
+- [Jenkis] (https://www.linkedin.com/learning/paths/continuous-integration-continuous-delivery-ci-cd-with-jenkins?u=103738074)
 - [GitHub Actions](https://docs.github.com/en/actions)
+- [AWS](https://www.linkedin.com/learning/introduction-to-aws-automation-tools/what-you-need-to-know?u=103738074)
 
 #### Key Skills
-- Container management
-- Orchestration
-- Pipeline automation
-- Integration strategies
+- 
 
 ### 3. Performance Testing (Weeks 7-9)
 
@@ -86,19 +83,18 @@ Learning/
 ├── automation/
 │   ├── playwright-tests/
 │   └── weekly-progress.md
-├── devops/
+├── cicd/
 │   └── weekly-progress.md
 ├── performance/
 │   └── weekly-progress.md
 ├── ai-ml/
 │   └── weekly-progress.md
 ├── portfolio-project/
-│   ├── docs/
-│   ├── src/
-│   ├── tests/
-│   └── results/
-└── blog-posts/
-    └── weekly-updates/
+    ├── docs/
+    ├── src/
+    ├── tests/
+    └── results/
+
 ```
 
 ### Documentation Requirements
