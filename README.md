@@ -10,7 +10,7 @@ Personal learning journey tracking my progress in QA technologies and practices.
 ## Learning Tracks
 # Comment: Clear timeline breakdown of learning objectives
 - Test Automation Architecture (Weeks 1-3)
-- DevOps & CI/CD Integration (Weeks 4-6)
+- CI/CD Integration (Weeks 4-6)
 - Performance Testing (Weeks 7-9)
 - AI/ML Testing (Weeks 10-12)
 
@@ -23,9 +23,8 @@ Personal learning journey tracking my progress in QA technologies and practices.
 ## Directory Structure
 # Comment: Navigation guide for repository contents
 - `/automation`: Playwright testing and automation projects
-- `/devops`: Docker and Kubernetes practice
+- `/ci-cd`: Docker and Kubernetes practice
 - `/performance`: K6 performance testing scripts
 - `/ai-ml`: AI/ML testing projects
 - `/portfolio-project`: Main portfolio project
-- `/blog-posts`: Technical writing and documentation
 ```

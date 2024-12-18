@@ -105,3 +105,9 @@ End Date: December 17, 2024
 - Review practice exercises from Section 2
 - Prepare for advanced test patterns
 - Plan implementation of learned concepts
+
+#### Week 2
+#### Wednesday, December 18
+##### Learning Session (13:00-14:00)
+**Topic**: LinkedIn Learning Playwright Course
+- Completed Section 2: practice - CHEATED
