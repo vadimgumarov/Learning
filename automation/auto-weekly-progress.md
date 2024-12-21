@@ -111,3 +111,10 @@ End Date: December 17, 2024
 ##### Learning Session (13:00-14:00)
 **Topic**: LinkedIn Learning Playwright Course
 - Completed Section 2: practice - CHEATED
+
+
+#### Week 2
+#### Saturday, December 21
+##### Learning Session (13:00-14:00)
+**Topic**: LinkedIn Learning Playwright Course
+- Completed Section 3
